@@ -1,8 +1,16 @@
 * {
     box-sizing: border-box;
 }
+html {
+    background-color: #fff;
+}
 body {
     background-image: url('./kepek/alap.jpg');
+    width: 80%;
+    margin: auto;
+    padding: 50px 0px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #555;
 }
 h1, h3 {
     text-align: center;
